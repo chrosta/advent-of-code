@@ -5,7 +5,7 @@ Package of totally ugly code blocks!
 2021:
 ---
 * My first season (and i started late). 🙄
-* Old and messy code (no time and hard, i ended up after 15 tasks). 😕
+* Old and messy code (no time and hard, i ended up after 14 tasks). 😕
 
 2022:
 ---
