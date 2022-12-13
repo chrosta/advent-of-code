@@ -65,8 +65,6 @@ for y in range(0, h):
                     f[3] = 0
             except KeyError: break
         #--
-        # Visibility RESULT:
-        #---
         if 1 in f:
             r += 1
 

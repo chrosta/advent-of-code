@@ -83,8 +83,6 @@ for y in range(0, h):
                     v[3] += 1
             except KeyError: break
         #--
-        # Visibility RESULT:
-        #---
         if 1 in f:
             c = reduce(lambda x, y: x*y, v)
             if c > r:
