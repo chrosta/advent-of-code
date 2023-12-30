@@ -11,3 +11,7 @@ Package of totally ugly code blocks!
 ---
 * New energy (i want to get behind half the days, maybe). 💪
 * I am trying to work from the first day. 😶
+
+2023:
+---
+- No ambitions. 🫤
