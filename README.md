@@ -15,3 +15,8 @@ Package of totally ugly code blocks!
 2023:
 ---
 - No ambitions. 🫤
+
+2024:
+---
+- No ambitions. 🫤
+- I am trying to write it in JS. 🤔
